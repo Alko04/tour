@@ -1,0 +1,72 @@
+
+body{
+    background-image: linear-gradient(white, #ab35dc40)
+}
+
+.paddingCarousel{
+    padding-bottom: 20% !important; 
+}
+.brandImg{
+    margin-right: 20px;
+}
+
+.navStyle{
+    background-color: #117a8b !important;
+}
+
+.colorWhite{
+    color: white !important;
+}
+
+.noMargin{
+    margin: 0;
+}
+
+.marginTop{
+    margin: 50px 0 0 0;
+}
+
+.bienvenido{
+    align-items: center;
+    text-align: center;
+    border: 1px solid #ff0081;
+    margin-top: -50px;
+    color: white;
+    background-color:#ff1fb099;
+    height: 170px;
+}
+
+.displayNav{
+    display: flex;
+    justify-content: flex-end;
+}
+.containerCards {
+    display: flex;    
+    justify-content: space-around;
+    align-content:center;
+  }
+
+.btn-search{
+    background-color:#1bb7da;
+    border-color: #1bb7da;
+}
+
+.btn-search:hover{
+    background-color: #14829a;
+    border-color: #14829a;
+}
+
+.dropSearch{
+    background-color:#1bb7da;
+    border-color: #1bb7da;
+}
+
+.dropSearch:hover{
+    background-color: #14829a;
+    border-color: #14829a;
+}
+
+.show>.btn-primary.dropdown-toggle {
+    background-color: #14829a;
+    border-color: #14829a;
+}
